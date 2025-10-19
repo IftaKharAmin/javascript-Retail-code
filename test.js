@@ -1,5 +1,9 @@
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+// let shuvo = fruits.slice(1);
 
-fruits.pop();
+//  console.log(shuvo)
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.sort();
 
 console.log(fruits);
